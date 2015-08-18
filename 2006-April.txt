@@ -1,0 +1,57 @@
+From casper at casper.org.ua  Sat Apr 29 03:30:53 2006
+From: casper at casper.org.ua (Andrey S. Pankov)
+Date: Sat, 29 Apr 2006 04:30:53 +0300 (EEST)
+Subject: [Solid-pbx-users] Open discussion
+Message-ID: <20060429013053.5B26A25CD7@casper.org.ua>
+
+Subject: Corydon76      Issue Deleted: 0006925, 04-28-06 17:49  Corydon76      Issue Deleted: 0006920
+Hi, all,
+
+Any comments on the fact?
+Will I still have access to the bugtracker?
+Shall I tell you all IP addresses I use for you to deny even
+anonymous access for me?
+
+Kevin P. Fleming wrote:
+
+> We do show our appreciation for active contributors as much as we can;
+...
+> we are always open to suggestions :-)
+
+http://lists.digium.com/pipermail/asterisk-dev/2006-April/020252.html
+
+Do you really? Are you really open?
+Corydon is known to be particularly "active" in the negative sense on
+the bugtracker conflicting as much as he can.
+
+I know dozens of people who had conflicts with him Tilghman. Can you
+confirm it, Mr. Lesher?
+
+I really don't want that Asterisk become a project people would better
+ignore because of other "people behind the project" like it was with
+GnuGK (see lists.openh323.org for details) for example. But there is
+no way for Asterisk to nearly completely change the core development/
+support team like it was in the case of GnuGK. I'm really unsure about
+how long can survive an Asterisk based project (have you ever heard
+about Aefirion dead now it seems). Who we see behind OpenPBX project?
+They are people you used to see as active Asterisk contributor (in
+the past). Did you ever asked yourselves WHY they didn't contribute
+any more? They are tired... and you'll never know WHY. You can guess,
+but do you really want to crack your mind on such a negligible point?
+
+Not that I do like OpenPBX fanaticism in removing copyright headers
+and renaming macros/functions... but I do remember people saying
+"let's merge this into OpenPBX for them to see it works" here on the
+list. I'd like to point the attention on that there is no way for
+Digium to "spy" on derived projects. All changes should be disclaimed.
+And changes made to a derived project are not disclamed anymore, even
+if they are the same people who contributed to Asterisk in the past.
+
+For those intrested I'd like you to post your comments to
+solid-pbx-users at lists.berlios.de mailing list. You will not be ignored,
+trust me please...
+
+Regards,
+Andrey S Pankov (casper)
+
+
